@@ -75,7 +75,7 @@ pre, tt {
 }
 
 a, a > tt {
-    color: #cd7b62;
+    color: #0000ff;
     text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ strong {
 
 
 h1, h2, h3 {
-    color: #cd7b62;
+    color: #750c6e;
     margin-top: 0.7em;
     margin-bottom: 0.5em;
     padding-bottom: 0.2em;
@@ -261,7 +261,7 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
     font-weight: normal;
-    color: #cd7b62;
+    color: #0000ff;
     margin-top: 1.2em;
     margin-bottom: 0.1em;
 }
